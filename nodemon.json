@@ -1,0 +1,10 @@
+{
+    "env": {
+        "USER_NAME": "",
+        "SQL_PASSWORD": "",
+        "DB_NAME": "",
+        "DB_HOST": "",
+        "SIB_KEY": ""
+    }
+
+}
