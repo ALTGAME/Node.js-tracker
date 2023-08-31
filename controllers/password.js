@@ -101,8 +101,8 @@ exports.forgotPassword=async(req,res,next)=>{
     
                 const tranEmailApi = new Sib.TransactionalEmailsApi()
                 const sender = {
-                    email: 'jyotisujeeth@gmail.com',
-                    name: 'jyotisujeeth',
+                    email: 'krgpsh13gmail.com',
+                    name: 'krg',
                 }
                 const receivers = [
                     {
