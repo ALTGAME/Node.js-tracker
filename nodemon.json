@@ -1,13 +1,1 @@
-{
-    "env": {
-        "USER_NAME": "root",
-        "SQL_PASSWORD": "VHIJ@0987mysql",
-        "DB_NAME": "expense",
-        "DB_HOST": "localhost",
-        "key_id": "rzp_test_GR3aXD62ZZSkvG",
-        "key_secret": "wBWE0NlKcFT1ZnOAJmhKsxCy",
-        "SIB_KEY": "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",
-        "TOKEN": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
-    }
 
-}
